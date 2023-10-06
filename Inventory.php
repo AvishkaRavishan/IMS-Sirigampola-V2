@@ -1,9 +1,9 @@
 <?php
 class Inventory {
-    private $host  = 'localhost';
-    private $user  = 'root';
-    private $password   = '';
-    private $database  = 'ims_db';   
+    private $host  = 'sql310.infinityfree.com';
+    private $user  = 'if0_35152907';
+    private $password   = 'GuW7VI9uUk';
+    private $database  = 'if0_35152907_ims_db';   
 	private $userTable = 'ims_user';	
     private $customerTable = 'ims_customer';
 	private $categoryTable = 'ims_category';

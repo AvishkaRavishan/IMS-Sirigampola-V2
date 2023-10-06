@@ -35,7 +35,7 @@ body>.container {
 </style>
 <?php include('inc/container.php');?>
 
-	<h1 class="text-center my-4 py-3 text-light" id="title">Inventory Management System - PHP</h1>	
+	<h1 class="text-center my-4 py-3 text-light" id="title">Sirigampola IMS</h1>	
 	<div class="col-lg-4 col-md-5 col-sm-10 col-xs-12">
 		<div class="card rounded-0 shadow">
 			<div class="card-header">
@@ -58,7 +58,7 @@ body>.container {
 							<input type="password" class="form-control rounded-0" id="password" name="pwd" placeholder="Password" required>
 						</div>  
 						<div class="d-grid">
-							<button type="submit" name="login" class="btn btn-primary rounded-0">Go to Login</button>
+							<button type="submit" name="login" class="btn btn-primary rounded-0">Login</button>
 						</div>
 					</form>
 				</div>
